@@ -1,7 +1,7 @@
 ---
-title: /peter
+title: /ontu
 layout: page
-permalink: /peter
+permalink: /ontu
 ---
 
 # Peter principle
